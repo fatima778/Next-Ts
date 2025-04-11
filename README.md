@@ -38,7 +38,7 @@ Navigation is handled using `useRouter()` and buttons.
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/ts-dashboard.git
+git clone https://github.com/fatima778/ts-dashboard.git
 cd ts-dashboard
 ```
 
